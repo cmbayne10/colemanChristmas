@@ -1,0 +1,25 @@
+body {
+  background-image: url(bla4.gif);
+  background-color: rgb(5, 217, 224);
+}
+img {
+  height: 250px;
+}
+article {
+  margin-right: 1100px;
+  padding: 50px;
+}
+h4 {
+  color: black;
+  text-shadow: 1px 1px 1px rgb(0, 128, 0);
+}
+h3 {
+  color: rgb(41, 129, 0);
+  text-shadow: 1px 1px 1px black;
+}
+img {
+  border: 5px outset green;
+}
+a {
+  color: rgb(0, 0, 0);
+}
